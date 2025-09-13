@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Rahul Yadav </p>
+logo: /assets/img/Rahul_Yadav.jpg
+
+description:
+  <p align="center">
+  <a href="/assets/pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rahul-yadav-52a09049/">LinkedIn</a> |
+  <a href="https://github.com/rahulyadav11mca">GitHub</a>
+  
+  <br>
+  Developed fully functional responsive prototypes based on Business Requirements using AngularJs, Angular2-8, ExtJs/Sencha, HTML5, CSS3, JavaScript, Typescript, Primeng, Ionic, Cordova, JSON, OOJS. Also worked on JAVA, Springboot, Jasmine, Cucumber.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
